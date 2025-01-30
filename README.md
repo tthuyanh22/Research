@@ -10,7 +10,7 @@ In this study, discretionary accruals are the main objectives that will be resea
 The research collects data from 180 listed companies in Vietnam stock market in 2016.
 ### Methods: 
 The study uses Modified Jones Model (1995) to identify how high the level of earnings management of companies is, illustrated by **Discretionary Accruals**
-$$\Total Accruals_t = \Net Income_t - \CFO_t$$
+$$\Total Accruals_{t} = \Net Income_{t} - \CFO_{t}$$
 $$\Discretionary Accruals_t = \Total Accruals_t - \Non-Discretionary Accruals_t$$
 And the non-discretionary accruals can be calculated with the next formula
 $$\frac{NDA_t}{TA_{t-1}} = \beta_1 \frac{1}{A_{t-1}} + \beta_2 \frac{(\Delta REV_t - \Delta REC_t)}{A_{t-1}} + \beta_3 \frac{PPE_t}{A_{t-1}}$$
