@@ -11,7 +11,7 @@ The research collects data from 180 listed companies in Vietnam stock market in 
 ### Methods: 
 The study uses Modified Jones Model (1995) to identify how high the level of earnings management of companies is, illustrated by **Discretionary Accruals**
 
-$$\Total Accruals_{t} = \NI_{t} - \CFO_{t}$$
+$$Total Accruals_{t} = NI_{t} - CFO_{t}$$
 
 $$\Discretionary Accruals_{t} = \Total Accruals_{t} - \Non-Discretionary Accruals_{t}$$
 
