@@ -21,7 +21,7 @@ $$\frac{NDA_t}{TA_{t-1}} = beta_{1} \frac{1}{A_{t-1}} + beta_{2} \frac{(Delta RE
 
 Therefore,
 $$DA_{t} = \varepsilon_t$$
-The estimates of beta_{1},beta_{2}, beta_{3} and non-discretionary accruals during the estimation period are obtained from the original Jones model. The Jones model admit that discretion is not exercised over revenue in either the estimation period or the event period. The modified version implicitly assumes that all changes in credit sales in the event period result from earnings management. Because it seems to be easier to manage earnings by exercising discretion over the recognition of revenue on credit sales than on cash sales.
+The estimates of $beta_{1},beta_{2}, beta_{3}$ and non-discretionary accruals during the estimation period are obtained from the original Jones model. The Jones model admit that discretion is not exercised over revenue in either the estimation period or the event period. The modified version implicitly assumes that all changes in credit sales in the event period result from earnings management. Because it seems to be easier to manage earnings by exercising discretion over the recognition of revenue on credit sales than on cash sales.
 
 ### Limitation: 
 Due to the data available constraints, the data is mainly derived from formal and creditable financial websites (website of VNDIRECT securities corporation, website of Ho Chi Minh City stock exchange, Hanoi stock exchange).
